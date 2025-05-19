@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Mon, 19 May 2025 08:49:17 +0000
+Source: minaki
+Binary: minaki
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 1.1.3
+Distribution: unstable
+Urgency: medium
+Maintainer: Andrew Polykandriotis <mail@minakilabs.com>
+Changed-By: Andrew Polykandriotis <mail@minakilabs.com>
+Description:
+ minaki     - Lightweight modular Linux intrusion detection CLI tool
+Changes:
+ minaki (1.1.3) unstable; urgency=medium
+ .
+   * Initial release
+Checksums-Sha1:
+ 63b3e210a66bec34b12d11601c611e37022693c2 613 minaki_1.1.3.dsc
+ f22312a277dd234a99423905a43304e9f829b5dd 67616 minaki_1.1.3.tar.xz
+ 7fdd614e2af173fb80cd3634dca1bc6e9f8f3eb0 13490 minaki_1.1.3_all.deb
+ ba20b98de14df854bb58082804fa6df50e580643 6724 minaki_1.1.3_amd64.buildinfo
+Checksums-Sha256:
+ e2dda8154640244eec1f2e0a89c8b861ed65107e96bef747693c9b756f8f3be4 613 minaki_1.1.3.dsc
+ 975ca7afcb9398dc3aaa9dcacab7765cbee7e3c07de8923ffc0a8cb6f1e79e70 67616 minaki_1.1.3.tar.xz
+ 1f054484d61a4e69a63813f3aeca59cf358ba8377c2b6f7ba573e6ca19d1da7a 13490 minaki_1.1.3_all.deb
+ c8615c69a142181969d0ec18fb3b14e20aeb8c830c67a460cafaab0d0ed3f862 6724 minaki_1.1.3_amd64.buildinfo
+Files:
+ 8880f35f9e30da8f7ecea8be72384408 613 utils optional minaki_1.1.3.dsc
+ c77fbc906013138c71a4f458a6dbc78d 67616 utils optional minaki_1.1.3.tar.xz
+ 12f148ff758885350508d45601118677 13490 utils optional minaki_1.1.3_all.deb
+ 6ff94fa4ba0b82cf907f53a7b9db5a91 6724 utils optional minaki_1.1.3_amd64.buildinfo
